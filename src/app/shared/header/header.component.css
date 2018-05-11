@@ -1,0 +1,18 @@
+.header-nav{
+    padding: 1em 0;
+}
+.header-nav a{
+    padding: 1em;
+    cursor: pointer;
+}
+.navbar-logo{
+    color: #5CB85C!important;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.menu-bar a{
+    color: rgba(0, 0, 0, 0.3);
+}
+.menu-bar a:hover,.menu-bar a:active,.menu-bar a:focus{
+    color: #000000;
+}
